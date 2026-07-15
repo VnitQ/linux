@@ -2,7 +2,10 @@
 /*
  * Memory Controller-related BPF kfuncs and auxiliary code
  *
- * Author: Roman Gushchin <roman.gushchin@linux.dev>
+ * Original Author: Roman Gushchin <roman.gushchin@linux.dev>
+ * Modified by: Elijah Siita <your.email@example.com>
+ *
+ * Copyright (C) 2026 Elijah Siita. All rights reserved.
  */
 
 #include <linux/memcontrol.h>
